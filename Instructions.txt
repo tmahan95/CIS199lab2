@@ -1,0 +1,18 @@
+Create and test a Windows Forms application that solves Programming Problem 3-1 (p. 192 of text):
+Create an application that lets the user enter the following pieces of data:
+The user’s first name
+The user’s middle name
+The user's last name
+The user’s preferred title (Mr., Mrs., Ms., Dr., etc.)
+Assume the user has entered the following data:
+First name: Kelly
+Middle name: Jane
+Last name: Smith
+Title: Ms.
+The application should have buttons that display the user’s name formatted in the following ways:
+Format 1: Ms. Kelly Jane Smith
+Format 2: Kelly Jane Smith
+Format 3: Kelly Smith
+Format 4: Smith, Kelly Jane, Ms.
+Format 5: Smith, Kelly Jane
+Format 6: Smith, Kelly

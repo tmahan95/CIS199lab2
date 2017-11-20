@@ -1,0 +1,24 @@
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\tjmaha01\documents\visual studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\tjmaha01\Documents\Visual Studio 2012\Projects\Lab2\Lab2\obj\Debug\Lab2.labForm2.resources
+D:\Documents\Visual Studio\Lab2 (2)\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Documents\Visual Studio\Lab2 (2)\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Documents\Visual Studio\Lab2 (2)\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Timmy\Desktop\Lab2\Lab2 (2)\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Timmy\Desktop\Lab2\Lab2 (2)\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Timmy\Desktop\Lab2\Lab2 (2)\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Timmy\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Timmy\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Timmy\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.labForm2.resources
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Timmy\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
